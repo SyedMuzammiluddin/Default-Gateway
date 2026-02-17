@@ -1,4 +1,4 @@
-📡 Cisco Packet Tracer – Static Routing Lab
+📡 Cisco Packet Tracer –   Default Routing Lab
 
 📌 Devices Used
 
